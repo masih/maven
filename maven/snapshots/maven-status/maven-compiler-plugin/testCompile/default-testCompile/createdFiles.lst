@@ -1,0 +1,11 @@
+org/mashti/synopsis/CharacterProtectorTest.class
+org/mashti/synopsis/TextEditorTest.class
+org/mashti/synopsis/MarkdownTest.class
+org/mashti/synopsis/PreserveHtmlBlockTagsTest.class
+org/mashti/synopsis/TestResultPair.class
+org/mashti/synopsis/EdgeCasesTest.class
+org/mashti/synopsis/EmailAddressesTest.class
+org/mashti/synopsis/EscapeSpecialCharsWithinTagAttributes.class
+org/mashti/synopsis/LineConventionsTest.class
+org/mashti/synopsis/HandleHtmlInlineTagsTest.class
+org/mashti/synopsis/MarkupFileTest.class
