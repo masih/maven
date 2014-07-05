@@ -3,9 +3,10 @@
   <groupId>org.mashti</groupId>
   <artifactId>jetson</artifactId>
   <versioning>
+    <release>1.0</release>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20140614155813</lastUpdated>
+    <lastUpdated>20140705130335</lastUpdated>
   </versioning>
 </metadata>
