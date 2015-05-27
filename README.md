@@ -1,7 +1,6 @@
 Masih's Maven Repository
 ===========================
 
-My Maven repository.   
 To connect to this repository add the following to your repositories in pom.xml:
 
 ``` xml
