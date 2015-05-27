@@ -1,13 +1,13 @@
-Mashti.org Maven Repository
+Masih's Maven Repository
 ===========================
 
-Contains Mashti.org maven repository files.   
+My Maven repository.   
 To connect to this repository add the following to your repositories in pom.xml:
 
 ``` xml
 <repository>
-  <id>org.mashti.maven</id>
-  <name>Mashti Maven Repository</name>
-  <url>http://maven.mashti.org</url>
+  <id>io.github.masih.maven</id>
+  <name>Masih's Maven Repository</name>
+  <url>http://masih.github.io/maven</url>
 </repository>
 ```
