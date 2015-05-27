@@ -5,8 +5,8 @@ To connect to this repository add the following to your repositories in pom.xml:
 
 ``` xml
 <repository>
-  <id>io.github.masih.maven</id>
+  <id>org.derkani.maven</id>
   <name>Masih's Maven Repository</name>
-  <url>http://masih.github.io/maven</url>
+  <url>http://maven.derkani.org</url>
 </repository>
 ```
